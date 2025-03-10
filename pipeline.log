@@ -1,0 +1,238 @@
+2025-03-10 22:44:07,066 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/ShipData.json
+2025-03-10 22:44:07,315 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/ShipData.parquet
+2025-03-10 22:44:07,353 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/ShipData_main_engines.parquet
+2025-03-10 22:44:07,378 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/ShipData_aux_engines.parquet
+2025-03-10 22:44:13,730 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9400071.json
+2025-03-10 22:44:13,784 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9400071.parquet
+2025-03-10 22:44:14,010 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9725512.json
+2025-03-10 22:44:14,062 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9725512.parquet
+2025-03-10 22:44:14,262 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9725524.json
+2025-03-10 22:44:14,297 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9725524.parquet
+2025-03-10 22:44:14,411 - api_client - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.hoppe-sts.com/fleet/9778399/signals
+2025-03-10 22:44:14,674 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9696826.json
+2025-03-10 22:44:14,746 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9696826.parquet
+2025-03-10 22:44:14,943 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9693290.json
+2025-03-10 22:44:14,979 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9693290.parquet
+2025-03-10 22:44:15,244 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9306184.json
+2025-03-10 22:44:15,297 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9306184.parquet
+2025-03-10 22:44:15,525 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9693331.json
+2025-03-10 22:44:15,564 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9693331.parquet
+2025-03-10 22:44:15,845 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9306287.json
+2025-03-10 22:44:15,901 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9306287.parquet
+2025-03-10 22:44:16,075 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9306160.json
+2025-03-10 22:44:16,126 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9306160.parquet
+2025-03-10 22:44:16,331 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9696838.json
+2025-03-10 22:44:16,381 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9696838.parquet
+2025-03-10 22:44:16,800 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9693329.json
+2025-03-10 22:44:16,852 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9693329.parquet
+2025-03-10 22:44:16,976 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9395525.json
+2025-03-10 22:44:17,009 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9395525.parquet
+2025-03-10 22:44:17,284 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Signals_9726566.json
+2025-03-10 22:44:17,319 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Signals_9726566.parquet
+2025-03-10 22:44:18,916 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9696838.json
+2025-03-10 22:44:19,109 - pipeline - INFO - No historical timeseries data found for ship 9696838
+2025-03-10 22:44:19,139 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9696838.parquet
+2025-03-10 22:44:19,162 - pipeline - ERROR - Failed to process timeseries for ship 9696838: No module named 'pyarrow'
+2025-03-10 22:44:23,476 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9693290.json
+2025-03-10 22:44:24,429 - pipeline - INFO - No historical timeseries data found for ship 9693290
+2025-03-10 22:44:24,477 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9693290.parquet
+2025-03-10 22:44:24,490 - pipeline - ERROR - Failed to process timeseries for ship 9693290: No module named 'pyarrow'
+2025-03-10 22:45:13,829 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9725512.json
+2025-03-10 22:45:14,181 - pipeline - INFO - No historical timeseries data found for ship 9725512
+2025-03-10 22:45:14,251 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9725512.parquet
+2025-03-10 22:45:14,370 - pipeline - ERROR - Failed to process timeseries for ship 9725512: No module named 'pyarrow'
+2025-03-10 22:45:14,372 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9696826.json
+2025-03-10 22:45:14,500 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9306184.json
+2025-03-10 22:45:14,807 - pipeline - INFO - No historical timeseries data found for ship 9696826
+2025-03-10 22:45:14,878 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9306287.json
+2025-03-10 22:45:14,906 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9696826.parquet
+2025-03-10 22:45:15,497 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9306160.json
+2025-03-10 22:45:15,599 - pipeline - INFO - No historical timeseries data found for ship 9306184
+2025-03-10 22:45:15,668 - pipeline - ERROR - Failed to process timeseries for ship 9696826: No module named 'pyarrow'
+2025-03-10 22:45:15,840 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9306184.parquet
+2025-03-10 22:45:15,978 - pipeline - INFO - No historical timeseries data found for ship 9306287
+2025-03-10 22:45:16,501 - pipeline - INFO - No historical timeseries data found for ship 9306160
+2025-03-10 22:45:16,608 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9306287.parquet
+2025-03-10 22:45:16,649 - pipeline - ERROR - Failed to process timeseries for ship 9306184: No module named 'pyarrow'
+2025-03-10 22:45:16,706 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9306160.parquet
+2025-03-10 22:45:17,458 - pipeline - ERROR - Failed to process timeseries for ship 9306287: No module named 'pyarrow'
+2025-03-10 22:45:17,969 - pipeline - ERROR - Failed to process timeseries for ship 9306160: No module named 'pyarrow'
+2025-03-10 22:45:23,131 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9725524.json
+2025-03-10 22:45:23,727 - pipeline - INFO - No historical timeseries data found for ship 9725524
+2025-03-10 22:45:23,783 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9725524.parquet
+2025-03-10 22:45:23,824 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9726566.json
+2025-03-10 22:45:23,908 - pipeline - ERROR - Failed to process timeseries for ship 9725524: No module named 'pyarrow'
+2025-03-10 22:45:25,166 - pipeline - INFO - No historical timeseries data found for ship 9726566
+2025-03-10 22:45:25,271 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9726566.parquet
+2025-03-10 22:45:25,322 - pipeline - ERROR - Failed to process timeseries for ship 9726566: No module named 'pyarrow'
+2025-03-10 22:45:26,558 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/43/Timeseries_9693329.json
+2025-03-10 22:45:30,190 - pipeline - INFO - No historical timeseries data found for ship 9693329
+2025-03-10 22:45:30,321 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/43/Timeseries_9693329.parquet
+2025-03-10 22:45:30,358 - pipeline - ERROR - Failed to process timeseries for ship 9693329: No module named 'pyarrow'
+2025-03-10 22:45:30,564 - data_storage - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 22:45:30,572 - data_storage - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 22:45:30,582 - data_storage - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 22:45:30,584 - pipeline - INFO - Pipeline run completed successfully in 0:01:30.742485
+2025-03-10 22:45:30,588 - pipeline - INFO - Pipeline completed in 0:01:30.746939
+2025-03-10 22:45:31,251 - __main__ - INFO - Database connection established
+2025-03-10 22:45:31,798 - pipeline - INFO - Combined 10 timeseries files with 1237144 rows total
+2025-03-10 22:45:32,246 - pipeline - INFO - Enriched timeseries data with friendly names
+2025-03-10 22:45:32,287 - data_storage - ERROR - Database write failed: No module named 'pyarrow'
+2025-03-10 22:45:32,291 - data_storage - ERROR - MSSQL database operation failed: No module named 'pyarrow'
+2025-03-10 22:45:32,292 - pipeline - ERROR - Failed to process and store data to database: No module named 'pyarrow'
+2025-03-10 22:45:32,294 - __main__ - ERROR - Database integration failed: No module named 'pyarrow'
+2025-03-10 22:57:58,828 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/ShipData.json
+2025-03-10 22:57:58,863 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/ShipData.parquet
+2025-03-10 22:57:58,888 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/ShipData_main_engines.parquet
+2025-03-10 22:57:58,911 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/ShipData_aux_engines.parquet
+2025-03-10 22:58:05,158 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9400071.json
+2025-03-10 22:58:05,187 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9400071.parquet
+2025-03-10 22:58:05,443 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9725512.json
+2025-03-10 22:58:05,473 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9725512.parquet
+2025-03-10 22:58:05,664 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9725524.json
+2025-03-10 22:58:05,695 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9725524.parquet
+2025-03-10 22:58:05,806 - api_client - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.hoppe-sts.com/fleet/9778399/signals
+2025-03-10 22:58:06,050 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9696826.json
+2025-03-10 22:58:06,090 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9696826.parquet
+2025-03-10 22:58:06,293 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9693290.json
+2025-03-10 22:58:06,323 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9693290.parquet
+2025-03-10 22:58:06,560 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9306184.json
+2025-03-10 22:58:06,596 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9306184.parquet
+2025-03-10 22:58:06,861 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9693331.json
+2025-03-10 22:58:06,896 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9693331.parquet
+2025-03-10 22:58:07,143 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9306287.json
+2025-03-10 22:58:07,196 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9306287.parquet
+2025-03-10 22:58:07,640 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9306160.json
+2025-03-10 22:58:07,727 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9306160.parquet
+2025-03-10 22:58:08,131 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9696838.json
+2025-03-10 22:58:08,199 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9696838.parquet
+2025-03-10 22:58:08,372 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9693329.json
+2025-03-10 22:58:08,413 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9693329.parquet
+2025-03-10 22:58:08,543 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9395525.json
+2025-03-10 22:58:08,581 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9395525.parquet
+2025-03-10 22:58:08,848 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Signals_9726566.json
+2025-03-10 22:58:08,882 - data_storage - INFO - Data saved to ./data/transformed_data/2025/03/10/21/57/Signals_9726566.parquet
+2025-03-10 22:58:10,617 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9306184.json
+2025-03-10 22:58:11,430 - pipeline - ERROR - Failed to process timeseries for ship 9306184: object of type 'NoneType' has no len()
+2025-03-10 22:58:11,907 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9725512.json
+2025-03-10 22:58:11,993 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9696826.json
+2025-03-10 22:58:12,895 - pipeline - ERROR - Failed to process timeseries for ship 9696826: object of type 'NoneType' has no len()
+2025-03-10 22:58:12,895 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9306160.json
+2025-03-10 22:58:13,004 - pipeline - ERROR - Failed to process timeseries for ship 9725512: object of type 'NoneType' has no len()
+2025-03-10 22:58:13,794 - pipeline - ERROR - Failed to process timeseries for ship 9306160: object of type 'NoneType' has no len()
+2025-03-10 22:58:18,401 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9696838.json
+2025-03-10 22:58:18,978 - pipeline - ERROR - Failed to process timeseries for ship 9696838: object of type 'NoneType' has no len()
+2025-03-10 22:58:21,014 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9306287.json
+2025-03-10 22:58:22,513 - pipeline - ERROR - Failed to process timeseries for ship 9306287: object of type 'NoneType' has no len()
+2025-03-10 22:58:25,564 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9693290.json
+2025-03-10 22:58:25,817 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9725524.json
+2025-03-10 22:58:36,733 - pipeline - ERROR - Failed to process timeseries for ship 9693290: object of type 'NoneType' has no len()
+2025-03-10 22:58:37,851 - pipeline - ERROR - Failed to process timeseries for ship 9725524: object of type 'NoneType' has no len()
+2025-03-10 22:59:15,917 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9726566.json
+2025-03-10 22:59:17,209 - pipeline - ERROR - Failed to process timeseries for ship 9726566: object of type 'NoneType' has no len()
+2025-03-10 22:59:19,382 - data_storage - INFO - Data saved to ./data/raw_data/2025/03/10/21/57/Timeseries_9693329.json
+2025-03-10 22:59:22,718 - pipeline - ERROR - Failed to process timeseries for ship 9693329: object of type 'NoneType' has no len()
+2025-03-10 22:59:22,845 - data_storage - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 22:59:22,853 - data_storage - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 22:59:22,858 - data_storage - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 22:59:22,860 - pipeline - INFO - Pipeline run completed successfully in 0:01:31.151946
+2025-03-10 22:59:22,861 - pipeline - INFO - Pipeline completed in 0:01:31.154109
+2025-03-10 22:59:22,866 - __main__ - INFO - Database connection established
+2025-03-10 22:59:22,873 - pipeline - WARNING - No timeseries files found in 2025/03/10/21/57
+2025-03-10 22:59:22,875 - __main__ - INFO - Database integration completed successfully
+2025-03-10 23:46:03,661 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/ShipData.json
+2025-03-10 23:46:03,862 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/ShipData.parquet
+2025-03-10 23:46:03,882 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/ShipData_main_engines.parquet
+2025-03-10 23:46:03,910 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/ShipData_aux_engines.parquet
+2025-03-10 23:46:10,415 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9400071.json
+2025-03-10 23:46:10,465 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9400071.parquet
+2025-03-10 23:46:10,676 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9725512.json
+2025-03-10 23:46:10,698 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9725512.parquet
+2025-03-10 23:46:10,898 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9725524.json
+2025-03-10 23:46:10,922 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9725524.parquet
+2025-03-10 23:46:11,029 - hoppe_etl_pipeline - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.hoppe-sts.com/fleet/9778399/signals
+2025-03-10 23:46:11,248 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9696826.json
+2025-03-10 23:46:11,278 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9696826.parquet
+2025-03-10 23:46:11,470 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9693290.json
+2025-03-10 23:46:11,500 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9693290.parquet
+2025-03-10 23:46:11,757 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9306184.json
+2025-03-10 23:46:11,782 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9306184.parquet
+2025-03-10 23:46:12,015 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9693331.json
+2025-03-10 23:46:12,052 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9693331.parquet
+2025-03-10 23:46:12,297 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9306287.json
+2025-03-10 23:46:12,334 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9306287.parquet
+2025-03-10 23:46:12,579 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9306160.json
+2025-03-10 23:46:12,613 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9306160.parquet
+2025-03-10 23:46:12,727 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9696838.json
+2025-03-10 23:46:12,779 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9696838.parquet
+2025-03-10 23:46:13,244 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9693329.json
+2025-03-10 23:46:13,313 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9693329.parquet
+2025-03-10 23:46:13,442 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9395525.json
+2025-03-10 23:46:13,478 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9395525.parquet
+2025-03-10 23:46:13,788 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Signals_9726566.json
+2025-03-10 23:46:13,840 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Signals_9726566.parquet
+2025-03-10 23:46:14,864 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9306184.json
+2025-03-10 23:46:15,015 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9306184
+2025-03-10 23:46:15,032 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9306184.parquet
+2025-03-10 23:46:15,326 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9306184.parquet
+2025-03-10 23:46:18,548 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9306287.json
+2025-03-10 23:46:18,772 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9306287
+2025-03-10 23:46:18,810 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9306287.parquet
+2025-03-10 23:46:19,392 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9306287.parquet
+2025-03-10 23:46:19,638 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9693290.json
+2025-03-10 23:46:20,090 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9693290
+2025-03-10 23:46:20,141 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9693290.parquet
+2025-03-10 23:46:22,082 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9693290.parquet
+2025-03-10 23:46:22,868 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9696838.json
+2025-03-10 23:46:22,912 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9306160.json
+2025-03-10 23:46:22,968 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9696826.json
+2025-03-10 23:46:23,002 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9725512.json
+2025-03-10 23:46:23,048 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9696838
+2025-03-10 23:46:23,098 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9696838.parquet
+2025-03-10 23:46:23,260 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9306160
+2025-03-10 23:46:23,290 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9696838.parquet
+2025-03-10 23:46:23,298 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9696826
+2025-03-10 23:46:23,299 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9725512
+2025-03-10 23:46:23,300 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9306160.parquet
+2025-03-10 23:46:23,448 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9725512.parquet
+2025-03-10 23:46:23,464 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9696826.parquet
+2025-03-10 23:46:23,570 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9306160.parquet
+2025-03-10 23:46:24,054 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9725512.parquet
+2025-03-10 23:46:24,722 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9696826.parquet
+2025-03-10 23:46:31,872 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9725524.json
+2025-03-10 23:46:39,973 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9725524
+2025-03-10 23:46:42,013 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9725524.parquet
+2025-03-10 23:47:15,967 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9726566.json
+2025-03-10 23:47:17,583 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9726566
+2025-03-10 23:47:17,597 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9725524.parquet
+2025-03-10 23:47:17,729 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9726566.parquet
+2025-03-10 23:47:21,661 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9726566.parquet
+2025-03-10 23:47:25,215 - hoppe_etl_pipeline - INFO - Data saved to ./data/raw_data/2025/03/10/22/45/Timeseries_9693329.json
+2025-03-10 23:47:28,023 - hoppe_etl_pipeline - INFO - No historical timeseries data found for ship 9693329
+2025-03-10 23:47:28,111 - hoppe_etl_pipeline - INFO - Data saved to ./data/transformed_data/2025/03/10/22/45/Timeseries_9693329.parquet
+2025-03-10 23:47:36,277 - hoppe_etl_pipeline - INFO - Data saved to ./data/gaps_data/2025/03/10/22/45/Gaps_9693329.parquet
+2025-03-10 23:47:36,406 - hoppe_etl_pipeline - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 23:47:36,411 - hoppe_etl_pipeline - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 23:47:36,416 - hoppe_etl_pipeline - INFO - Cleanup of data older than 2024-12-10 completed
+2025-03-10 23:47:36,419 - hoppe_etl_pipeline - INFO - Pipeline run completed successfully in 0:01:39.304465
+2025-03-10 23:47:36,420 - hoppe_etl_pipeline - INFO - Pipeline completed in 0:01:39.305476
+2025-03-10 23:48:08,688 - hoppe_etl_pipeline - INFO - Starte Verarbeitung um 2025-03-10 23:48:08.688211
+2025-03-10 23:49:13,084 - hoppe_etl_pipeline - INFO - Starte Verarbeitung um 2025-03-10 23:49:13.084522
+2025-03-10 23:49:30,479 - hoppe_etl_pipeline - INFO - Starte Verarbeitung um 2025-03-10 23:49:30.478858
+2025-03-10 23:53:13,252 - hoppe_etl_pipeline - INFO - Starte Verarbeitung um 2025-03-10 23:53:13.252570
+2025-03-10 23:53:19,437 - hoppe_etl_pipeline - INFO - Durchsuche Verzeichnis ./data/transformed_data nach Timeseries-Dateien
+2025-03-10 23:53:19,454 - hoppe_etl_pipeline - INFO - Gefunden: 10 Timeseries-Dateien aus 1 Tagen
+2025-03-10 23:53:19,455 - hoppe_etl_pipeline - INFO - Lade 10 Timeseries-Dateien
+2025-03-10 23:53:19,456 - hoppe_etl_pipeline - INFO - Verarbeite Datei 1 von 10
+2025-03-10 23:53:19,957 - hoppe_etl_pipeline - INFO - Insgesamt 1235318 Zeilen geladen, 1235318 vor Deduplizierung
+2025-03-10 23:53:19,959 - hoppe_etl_pipeline - INFO - Zeilen nach Entfernen von Nullwerten: 1235318
+2025-03-10 23:53:20,368 - hoppe_etl_pipeline - INFO - Zeilen nach Deduplizierung: 1235318
+2025-03-10 23:53:20,370 - hoppe_etl_pipeline - INFO - Pivotisiere Daten
+2025-03-10 23:53:20,434 - hoppe_etl_pipeline - INFO - Gefunden: 218 eindeutige Signale
+2025-03-10 23:53:21,006 - hoppe_etl_pipeline - INFO - Pivotisierter DataFrame hat 11556 Zeilen und 221 Spalten
+2025-03-10 23:54:20,425 - hoppe_etl_pipeline - INFO - Pivotisierte Daten gespeichert nach ./pivoted_timeseries.parquet
+2025-03-10 23:54:20,471 - hoppe_etl_pipeline - INFO - Statistiken der pivotisierten Daten:
+2025-03-10 23:54:20,472 - hoppe_etl_pipeline - INFO -   Anzahl der Zeilen: 11556
+2025-03-10 23:54:20,475 - hoppe_etl_pipeline - INFO -   Anzahl der Spalten: 221
+2025-03-10 23:54:20,478 - hoppe_etl_pipeline - INFO -   Eindeutige IMOs: 10
+2025-03-10 23:54:20,836 - hoppe_etl_pipeline - INFO - Verarbeitung abgeschlossen nach 0:01:07.583863, Endzeit: 2025-03-10 23:54:20.836433

@@ -1,0 +1,7 @@
+.env
+
+hoppe-env/
+
+__pycache__/
+
+data/
